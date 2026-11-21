@@ -5,4 +5,4 @@ export default function GifCard({ title, url }) {
       <p>{title}</p>
     </div>
   );
-}
+}dasdsaasf
